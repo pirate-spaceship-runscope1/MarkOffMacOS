@@ -1,3 +1,4 @@
 github "Pyroh/SwiftMark" "0.9"
-github "ReactiveCocoa/ReactiveCocoa" "v4.2.2"
-github "antitypical/Result" "2.1.3"
+github "ReactiveCocoa/ReactiveCocoa" "6.0.2"
+github "ReactiveCocoa/ReactiveSwift" "2.0.1"
+github "antitypical/Result" "3.2.4"
